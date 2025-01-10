@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#webgazerVideoContainer {
+    margin-left: 1100px;
+}
