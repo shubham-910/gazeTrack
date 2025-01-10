@@ -110,11 +110,13 @@ With an intuitive interface and accessible design, GazeTrack empowers users to d
 
 ### Backend
 
-1. 1. **Navigate to the Backend Directory**  
-      Move into the `backend` directory:
-   ```bash
-   cd backendGazeTrack
-   ```
+1. **Navigate to the Backend Directory**  
+   Move into the `backend` directory:
+
+```bash
+cd backendGazeTrack
+```
+
 2. Set Up Python Environment:
    ```sh
    python -m venv venv
